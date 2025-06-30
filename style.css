@@ -89,6 +89,12 @@ body {
     animation-delay: 5.3s;
 }
 
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
 .btn {
     position: relative;
     display: inline-flex;
