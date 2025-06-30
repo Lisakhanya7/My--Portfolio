@@ -62,14 +62,14 @@ body {
 }
 
 .home-content {
-    max-width:50px;
+    max-width:30px;
     margin-left: -30px;
 }
 
 .home-content h1 {
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1;
     animation: slideRight .5s ease forwards;
     animation-delay: 1.5s;
 }
@@ -88,7 +88,6 @@ body {
     animation: slideRight 1s ease forwards;
     animation-delay: 2.3s;
 }
-
 
 .btn {
     position: relative;
